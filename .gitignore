@@ -1,0 +1,20 @@
+# API keys
+riot_api_key.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (likely large/sensitive)
+data/ryan_match_data/
+
+# OS
+.DS_Store
+Thumbs.db
